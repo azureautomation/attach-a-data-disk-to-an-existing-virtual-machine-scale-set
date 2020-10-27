@@ -1,0 +1,20 @@
+{
+    "Author": "softsara",
+    "ContentSize": 493,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/attach-a-data-disk-to-an-existing-virtual-machine-scale-set/master/attach-datadisk-to-vmss.ps1",
+    "DownloadCount": 698,
+    "Id": "Attach-a-data-disk-to-an-482a1484",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 314,
+    "RaterCount": 1,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-6-7T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This script shows you how to attach a new data disks to a existing windows virtual machine scale set using PowerShell. This script adds an empty data disk to a virtual machine scale set.The script run on the resource group \"myResourceGroup\" and vm scale set name \"myVMSS\".\u00a0You can",
+    "Title": "Attach a data disk to an existing virtual machine scale set",
+    "UpdatedDate": "2018-6-7T00:00:00",
+    "Url": "https://github.com/azureautomation/attach-a-data-disk-to-an-existing-virtual-machine-scale-set",
+    "UserTags": "Virtual Machine ScaleSet"
+}
